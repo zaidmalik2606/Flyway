@@ -1,2 +1,1 @@
-# Flyway
-An Airline Booking Portal
+# FlyAway-FSD-Project-Phase-II
